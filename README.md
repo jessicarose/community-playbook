@@ -1,6 +1,8 @@
 # Welcome to Common Voice Community  🥳
 
-Common Voice is a publicly available voice dataset, powered by the voices of volunteer contributors around the world. People who want to build voice applications can use the dataset to train machine learning models.
+Common Voice is a project that collects volunteer contributions to offer a multilingual, open source [speech dataset](https://commonvoice.mozilla.org/en/datasets) with the goal of helping computers learn the way real people speak. We use our [open source platform](https://github.com/common-voice/common-voice) to collect voice clips and text contributions from volunteer contributors around the world.
+
+Our datasets are released under a [CC0 license](https://creativecommons.org/public-domain/cc0/) and are used by people building voice applications to train machine learning models, researchers, language activists and more.
 
 Learn more our project on the [onboarding page](https://common-voice.github.io/community-playbook/sub_pages/onboarding.html) and check out Common Voice Platform [demo mode](https://commonvoice.mozilla.org/demo).
 
